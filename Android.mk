@@ -29,7 +29,7 @@ LOCAL_RESOURCE_DIR := \
 LOCAL_AAPT_FLAGS := --auto-add-overlay \
     --extra-packages android.support.v17.leanback:android.support.v7.preference:android.support.v14.preference:android.support.v17.preference:android.support.v7.appcompat:android.support.v7.recyclerview
 
-LOCAL_PACKAGE_NAME := PackageInstaller
+LOCAL_PACKAGE_NAME := XPeriencePackageInstaller
 LOCAL_CERTIFICATE := platform
 
 LOCAL_PRIVILEGED_MODULE := true
